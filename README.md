@@ -148,18 +148,15 @@ O objetivo do AquaRescue é fornecer uma interface centralizada para coleta, cá
 }
 ```
 
-# 🚀 Deploy na Nuvem
-[inserir link aqui]
-
 # 📑 Documentação da API
 * A API está documentada via Swagger e pode ser acessada em:
 
 * http://localhost:8080/swagger-ui.html
 
 # 🎥 Demonstrações
-* Demonstração completa: [link para vídeo de até 10 minutos]
+* Demonstração completa: https://youtu.be/he_9EIrBJPs
 
-# Pitch: [link para vídeo de até 3 minutos]
+# Pitch: https://youtu.be/72TR3quH2Dg
 
 # 📌 Critérios Atendidos
 * API REST com boas práticas
