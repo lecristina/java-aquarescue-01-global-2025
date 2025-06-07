@@ -156,7 +156,8 @@ O objetivo do AquaRescue é fornecer uma interface centralizada para coleta, cá
 # 🎥 Demonstrações
 * Demonstração completa: https://youtu.be/he_9EIrBJPs
 
-# Pitch: https://youtu.be/72TR3quH2Dg
+# Pitch: 
+* https://youtu.be/72TR3quH2Dg
 
 # 📌 Critérios Atendidos
 * API REST com boas práticas
